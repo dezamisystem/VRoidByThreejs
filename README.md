@@ -28,7 +28,7 @@ Three.js と @pixiv/three-vrm を使用した、ブラウザ上で VRM モデル
 ## モジュールインストール
 
 ```bash
-$ npm i -D webpack webpack-cli typescript ts-loader
+$ npm i -D vite typescript
 $ npm i -S three @pixiv/three-vrm
 $ npm i -S @pixiv/three-vrm-animation
 ```
