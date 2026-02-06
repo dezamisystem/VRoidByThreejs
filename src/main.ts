@@ -149,7 +149,7 @@ function setupGUI(action: THREE.AnimationAction, mixer: THREE.AnimationMixer) {
 }
 
 // VRMとVRMAの読み込み
-load("./models/SimpleGirl02.vrm");
+load("./models/SimpleGirl01.vrm");
 load("./models/vpdloop_kick01.vrma");
 
 // clockの準備
